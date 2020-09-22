@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+    background-color: grey;
+}
+
+#titulo {
+    background-color: rgb(85, 85, 85);
+    font-family: fantasy;
+    border-radius: 0.2rem;
+}
+
+table {
+    border-collapse: collapse;
+    border: 5px solid #000;
+    margin: auto;
+}
+
+td {
+    width: 50px;
+    height: 50px;
+    border: 1px solid #000;
+    text-align: center;
+    vertical-align: center;
+    font-family: monospace;
+    font-size: 18px;
+
+    position: relative;
+}
+
+.pixel-index {
+    font-size: 10px;
+    display: inline-block;
+    position: absolute;
+    top: 2px;
+    right: 2px;
+    color: #999999;
+}
+
+td.pixel {
+    width: 5px;
+    height: 5px;
+    border: 0;
+}
+
+footer a h3 {
+    color: black;
+    background-color: rgb(85, 85, 85);
+    border-radius: 0.2rem;
+    font-style: italic;
+}
