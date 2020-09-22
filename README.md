@@ -4,6 +4,6 @@
 
 A partir dessa experiência, pude conhecer mais as funcionalidades da liguagem de programação JS e também me adaptar a alguns trejeitos, como também me diverti fazendo!
 
-Caso queira ver como ficou, favor verificar [AQUI]()
+Caso queira ver como ficou, favor clicar [AQUI](https://itanuromero.github.io/FogoDOOM/)
 
 Agradeço pelo tempo e pela atenção!
